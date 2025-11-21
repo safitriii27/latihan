@@ -15,7 +15,11 @@
          alt="Logo Polinela" 
          class="mb-3" 
          style="width: 120px;">
+<<<<<<< HEAD
     <h2 class="fw-bold display-4 mb-2">Event Safitri</h2>
+=======
+    <h2 class="fw-bold display-4 mb-2">Event wahyu sani</h2>
+>>>>>>> wahyusani
     <p class="fs-4 text-secondary mb-4">Platform Event Politeknik Negeri Lampung</p>
 
     <div class="d-flex flex-wrap justify-content-center gap-4 mt-3">
